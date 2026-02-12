@@ -1,4 +1,4 @@
-## 1. draft 1
+## 1. draft 2
 
 ### 1.1. rapido user
 1. snap date
@@ -11,8 +11,10 @@
 8. user inputs: mode of payment 
 9. app outputs: payment mode/status acceptance
 10. app outputs: booking status
-11. user inputs: choice, cancel or continue
-12. user inputs: rates the experience     
+11. app outputs: rider allocation
+12. user inputs: choice, cancel or continue
+13. TRAVEL
+14. user inputs: rates the experience     
 
 ### 1.2. rapido captain
 1. snap date

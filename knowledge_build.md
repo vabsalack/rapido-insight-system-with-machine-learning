@@ -1,14 +1,18 @@
-## 1. draft 0
+## 1. draft 1
 
 ### 1.1. rapido user
 1. snap date
 2. snap timestamp
 3. user inputs: boarding and destination locations
-4. app outputs: estimated travel time
-5. app outputs: cost of travel
-6. user inputs: mode of payment
-7. app outputs: payment mode/status acceptance
-8. app outputs: booking status
+4. user inputs: vehicle type
+5. app outputs: estimated travel time
+6. user inputs: priority level
+7. app outputs: cost of travel
+8. user inputs: mode of payment 
+9. app outputs: payment mode/status acceptance
+10. app outputs: booking status
+11. user inputs: choice, cancel or continue
+12. user inputs: rates the experience     
 
 ### 1.2. rapido captain
 1. snap date
